@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib/",
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "typescript.preferences.quoteStyle": "double",
+    "editor.formatOnSave": true
+}
